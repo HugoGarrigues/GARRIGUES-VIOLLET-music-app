@@ -1,6 +1,6 @@
 # GARRIGUES-VIOLLET-Music-App
 
-![Logo Spotify](frontend/assets/logo/logo_spotify.png "Logo spotify")
+![Logo Spotify](frontend/assets/logo/logo_spotify.svg "Logo spotify")
 
 ## Le Projet :
 
@@ -15,7 +15,7 @@ Rechercher un titre de musique
 Filtrer selon des auteurs
 
 ## Technologie utilisées
-HTML, CSS, JavaScript, API, NodeJs
+HTML, CSS, JavaScript, API
 
 ## Auteurs
 * **Hugo GARRIGUES** **Yoan VIOLLET**- *Développement* 
